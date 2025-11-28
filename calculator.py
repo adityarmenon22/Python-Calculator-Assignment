@@ -6,7 +6,6 @@ def subtract(x, y):
     return x - y
 
 # Adding multiplication logic
-
 def multiply(x, y):
     return x * y
 
