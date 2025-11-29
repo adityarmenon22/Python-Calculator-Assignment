@@ -1,4 +1,4 @@
-# Simple Python Calculator
+# Python Calculator
 
 ## Project Description
 A console-based calculator developed in Python that performs addition, subtraction, multiplication, and division.
@@ -14,4 +14,5 @@ A console-based calculator developed in Python that performs addition, subtracti
 - Loop feature for continuous calculations
 
 ## Screenshots
+
 ![alt text](image.png)
